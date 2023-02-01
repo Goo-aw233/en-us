@@ -8,7 +8,7 @@
       <link href="/en-us/tutorial/Windows/Downgrade_Windows/"/>
       <url>/en-us/tutorial/Windows/Downgrade_Windows/</url>
       
-        <content type="html"><![CDATA[<p>Setup could not keep files to downgrade the system before replacing <code>setuphost.exe</code><br><img src="https://cdn.jsdelivr.net/gh/Goo-aw233/WebSiteResources/Pics/Downgrade_Windows/Downgrade_Windows-en1.png" alt="Could not keep files"></p><p>Using UltraISO, replace the <code>setuphost.exe</code> file in the <code>sources</code> folder of the new version of the ISO with the old one and save it<br><img src="https://cdn.jsdelivr.net/gh/Goo-aw233/WebSiteResources/Pics/Downgrade_Windows/Downgrade_Windows-en2.png" alt="replace setuphost.exe"></p><h1 id="If-you-don’t-know-where-to-download-the-ISO-from-please-check"><a href="#If-you-don’t-know-where-to-download-the-ISO-from-please-check" class="headerlink" title="If you don’t know where to download the ISO from, please check "></a>If you don’t know where to download the ISO from, please check <a href="/en-us/tutorial/Windows/UUP/" title="">Building a Windows ISO with UUP</a></h1><hr><p><strong>If UltraISO could not save the file</strong><br>(Sorry ~ there aren’t any screenshots here)<br>Extract all the contents of the old ISO, click on “Boot” at the top of UltraISO, and click on “Save boot file…” and save it to a random location<br><br>Copy the <code>setuphost.exe</code> file from the <code>sources</code> folder in the new version of the ISO and replace it with the old one<br><br>Create a new ISO with UltraISO, copy all the files from the old ISO, click “Start” on UltraISO, and select “Load boot file…” and select the boot file you just saved, and finally click Save</p><hr><p>Once the replacement is complete, you can keep the files to downgrade Windows<br><img src="https://cdn.jsdelivr.net/gh/Goo-aw233/WebSiteResources/Pics/Downgrade_Windows/Downgrade_Windows-en3.png" alt="Ready"><br><img src="https://cdn.jsdelivr.net/gh/Goo-aw233/WebSiteResources/Pics/Downgrade_Windows/Downgrade_Windows-en4.png" alt="Installing 1"><br><img src="https://cdn.jsdelivr.net/gh/Goo-aw233/WebSiteResources/Pics/Downgrade_Windows/Downgrade_Windows-en5.png" alt="Installing 2"></p><p>Finally, you can use the downgraded Windows normally(However, there may be some strange bugs)<br><img src="https://cdn.jsdelivr.net/gh/Goo-aw233/WebSiteResources/Pics/Downgrade_Windows/Downgrade_Windows-en6.png" alt="At last"></p>]]></content>
+        <content type="html"><![CDATA[<p>Setup could not keep files to downgrade the system before replacing <code>setuphost.exe</code><br><img src="https://cdn.jsdelivr.net/gh/Goo-aw233/WebSiteResources/Pics/Downgrade_Windows/Downgrade_Windows-en1.png" alt="Could not keep files"></p><p>Using UltraISO, replace the <code>setuphost.exe</code> file in the <code>sources</code> folder of the new version of the ISO with the old one and save it<br><img src="https://cdn.jsdelivr.net/gh/Goo-aw233/WebSiteResources/Pics/Downgrade_Windows/Downgrade_Windows-en2.png" alt="replace setuphost.exe"></p><h1 id="If-you-don’t-know-where-to-download-the-ISO-from-please-check"><a href="#If-you-don’t-know-where-to-download-the-ISO-from-please-check" class="headerlink" title="If you don’t know where to download the ISO from, please check "></a>If you don’t know where to download the ISO from, please check <a href="/en-us/tutorial/Windows/UUP/" title="Building a Windows ISO with UUP">Building a Windows ISO with UUP</a></h1><hr><p><strong>If UltraISO could not save the file</strong><br>(Sorry ~ there aren’t any screenshots here)<br>Extract all the contents of the old ISO, click on “Boot” at the top of UltraISO, and click on “Save boot file…” and save it to a random location<br><br>Copy the <code>setuphost.exe</code> file from the <code>sources</code> folder in the new version of the ISO and replace it with the old one<br><br>Create a new ISO with UltraISO, copy all the files from the old ISO, click “Start” on UltraISO, and select “Load boot file…” and select the boot file you just saved, and finally click Save</p><hr><p>Once the replacement is complete, you can keep the files to downgrade Windows<br><img src="https://cdn.jsdelivr.net/gh/Goo-aw233/WebSiteResources/Pics/Downgrade_Windows/Downgrade_Windows-en3.png" alt="Ready"><br><img src="https://cdn.jsdelivr.net/gh/Goo-aw233/WebSiteResources/Pics/Downgrade_Windows/Downgrade_Windows-en4.png" alt="Installing 1"><br><img src="https://cdn.jsdelivr.net/gh/Goo-aw233/WebSiteResources/Pics/Downgrade_Windows/Downgrade_Windows-en5.png" alt="Installing 2"></p><p>Finally, you can use the downgraded Windows normally(However, there may be some strange bugs)<br><img src="https://cdn.jsdelivr.net/gh/Goo-aw233/WebSiteResources/Pics/Downgrade_Windows/Downgrade_Windows-en6.png" alt="At last"></p>]]></content>
       
       
       <categories>
@@ -31,13 +31,27 @@
     
     
     <entry>
-      <title></title>
+      <title>Building a Windows ISO with UUP</title>
       <link href="/en-us/tutorial/Windows/UUP/"/>
       <url>/en-us/tutorial/Windows/UUP/</url>
       
         <content type="html"><![CDATA[]]></content>
       
       
+      <categories>
+          
+          <category> tutorial </category>
+          
+          <category> Windows </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Windows </tag>
+            
+        </tags>
       
     </entry>
     
