@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://goo-aw233.github.io/en-us/help/index.html</loc>
+    
+    <lastmod>2023-02-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://goo-aw233.github.io/en-us/resources/index.html</loc>
+    
+    <lastmod>2023-02-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://goo-aw233.github.io/en-us/tutorial/Windows/UUP/</loc>
     
     <lastmod>2023-02-01</lastmod>
@@ -14,15 +32,6 @@
     <loc>https://goo-aw233.github.io/en-us/tutorial/Windows/Downgrade_Windows/</loc>
     
     <lastmod>2023-02-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://goo-aw233.github.io/en-us/help/index.html</loc>
-    
-    <lastmod>2023-01-21</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -48,15 +57,6 @@
   
   <url>
     <loc>https://goo-aw233.github.io/en-us/tags/index.html</loc>
-    
-    <lastmod>2023-01-20</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://goo-aw233.github.io/en-us/resources/index.html</loc>
     
     <lastmod>2023-01-20</lastmod>
     
