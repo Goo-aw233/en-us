@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://goo-aw233.github.io/en-us/tutorial/Windows/UUP/</loc>
+    
+    <lastmod>2023-02-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://goo-aw233.github.io/en-us/tutorial/Windows/Downgrade_Windows/</loc>
+    
+    <lastmod>2023-02-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://goo-aw233.github.io/en-us/help/index.html</loc>
     
     <lastmod>2023-02-01</lastmod>
@@ -12,24 +30,6 @@
   
   <url>
     <loc>https://goo-aw233.github.io/en-us/resources/index.html</loc>
-    
-    <lastmod>2023-02-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://goo-aw233.github.io/en-us/tutorial/Windows/UUP/</loc>
-    
-    <lastmod>2023-02-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://goo-aw233.github.io/en-us/tutorial/Windows/Downgrade_Windows/</loc>
     
     <lastmod>2023-02-01</lastmod>
     
@@ -85,7 +85,7 @@
 
   <url>
     <loc>https://goo-aw233.github.io/en-us</loc>
-    <lastmod>2023-02-01</lastmod>
+    <lastmod>2023-02-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -93,7 +93,7 @@
   
   <url>
     <loc>https://goo-aw233.github.io/en-us/tags/Windows/</loc>
-    <lastmod>2023-02-01</lastmod>
+    <lastmod>2023-02-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -102,14 +102,14 @@
   
   <url>
     <loc>https://goo-aw233.github.io/en-us/categories/tutorial/</loc>
-    <lastmod>2023-02-01</lastmod>
+    <lastmod>2023-02-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://goo-aw233.github.io/en-us/categories/tutorial/Windows/</loc>
-    <lastmod>2023-02-01</lastmod>
+    <lastmod>2023-02-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
