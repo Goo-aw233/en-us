@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>GuCATs&#39;Blog</title>
-  <icon>https://gcore.jsdelivr.net/gh/Goo-aw233/WebSiteResources/Pics/Blog/RSS.png</icon>
+  <icon>https://gcore.jsdelivr.net/gh/Goo-aw233/WebSiteResources@main/Pics/Blog/RSS.png</icon>
   <subtitle>Seeing is believing</subtitle>
   <link href="https://goo-aw233.github.io/en-us/atom.xml" rel="self"/>
   
